@@ -1,6 +1,7 @@
 👋 Hi, I’m Gayathri Sooraj. Welcome to my Github Page!
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
+
 Feel free to check my portfolio of projects✨
 
 <!---
