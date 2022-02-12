@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @gaya3sooraj
+👋 Hi, I’m Gayathri Sooraj. Welcome to my Github Page!
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on EDA projects
-- 📫 How to reach me gaya3sooraj@gmail.com
+Feel free to check my portfolio of projects✨
 
 <!---
 gaya3sooraj/gaya3sooraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
