@@ -1,6 +1,7 @@
 👋 Hi, I’m Gayathri Sooraj. Welcome to my Github Page!
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m a Data Scientist interested in Machine Learning and Numerical Analysis.
+- 🌱 I’m currently working on an ASR application for African Languages.
+- 🐣 I'm also studying about Application of Tensors in Image/Video Analysis. 
 
 Feel free to check my portfolio of projects✨
 
